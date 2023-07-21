@@ -1,16 +1,14 @@
-# Sweep2
-![](/gallery/sweepv2/front.png)
-![](/gallery/sweepv2/back.png)
-
-This is the main Choc v1 board we all know and love.
+# Sweep2 NoLogo
+![](/gallery/sweepv2-nologo/front.svg)
+![](/gallery/sweepv2-nologo/back.svg)
 
 ## Ordering The PCB
 
-To order the PCB the following settings are recommended<sup>1,2</sup>: 
+To order the PCB the following settings are recommended<sup>1,2</sup>:
 
 |Detail|Value|
 |---|---|
-|Gerber file|`sweepv2.X_gerber.zip`|
+|Gerber file|`sweepv2.2-nologo_gerber.zip`|
 |Base material|FR-4|
 |Layers|2|
 |Dimension|216.9mm x 86.9mm|
