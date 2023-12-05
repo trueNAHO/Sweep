@@ -12,9 +12,8 @@
                |   |   |    |   |   |
                `___`___`    `___`___`
 -->
-| Front | Back |
-| :---: | :---: |
-| ![front](/gallery/sweep-half-swept/front.png) | ![back](/gallery/sweep-half-swept/back.png) |
+>  ![sweep-hero](https://github.com/davidphilipbarr/Sweep/assets/27895007/97e13cdc-b84b-4545-8e09-139a4bb935e5)  
+> <sub>Bluetooth Sweep 2 + MBK Legend Keycaps</sub>
 
 <span>
   <a href="https://discord.gg/czXcTXbsgU">
